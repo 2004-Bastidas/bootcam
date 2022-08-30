@@ -1,0 +1,23 @@
+[
+    {
+        "name":"PHP Advanced mode",
+        "description": "PHP for senior programmers",
+        "website": "laravel.org/bootcamps",
+        "phone" : "(111)111-111",
+        "user_id" : 1
+    },
+    {
+        "name":"Python Advanced mode",
+        "description": "Python for senior programmers",
+        "website": "python.org/bootcamps",
+        "phone" : "(222)222-222",
+        "user_id" : 1
+    },
+    {
+        "name":"ES6 Advanced mode",
+        "description": "Javascript Async, and Promises",
+        "website": "js.org/bootcamps",
+        "phone" : "(333)333-333",
+        "user_id" : 1
+    }
+]
